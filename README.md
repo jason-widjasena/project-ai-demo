@@ -1,0 +1,4 @@
+- Team name: The Code Theorists
+- Topic: Algorithms, Data Structures, & Connectionist AI
+- Learning audience: Beginners with little to no experience in computer science. While they may know how to use AI for daily tasks, they don’t understand the logic of how it works.
+- One sentence: A comprehensive and engaging set of learning materials for “Algorithms, Data Structures, & Connectionist AI.”
