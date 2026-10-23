@@ -19,7 +19,7 @@
 
 ---
 
-**Initial Project Plan and Task List:** https://canva.link/99b1f5igtc0vgxd
+**Initial Project Plan and Task List:** https://canva.link/99b1f5igtc0vgxd  
 **Maintained/Current Task List:** https://docs.google.com/spreadsheets/d/12cC2bCGbygLqg6BM8GAdZDNgiaaRm0kaKFSGSo4OAIU/edit?usp=sharing
 
 ---
