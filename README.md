@@ -16,3 +16,15 @@
 | **Owen** | 1820262252 | 彭世涛 | Visual Design Lead | `owensusantophang0` |
 | **Raphael** | 1820262212 | 洪建民 | Video Lead | `raphaelanz-hub` |
 | **Kenneth** | 1820262213 | 潘超凡 | Content Lead | `MoonLythz` |
+
+---
+
+**Initial Project Plan and Task List:** https://canva.link/99b1f5igtc0vgxd
+**Maintained/Current Task List:** https://docs.google.com/spreadsheets/d/12cC2bCGbygLqg6BM8GAdZDNgiaaRm0kaKFSGSo4OAIU/edit?usp=sharing
+
+---
+
+# File Directory:
+- Overview and general information of project is organized in README.md
+- All content and materials are in /content , organized based on each chapter and separated by each sub-chapter.
+- All assets, images, videos, and others are in /assets
