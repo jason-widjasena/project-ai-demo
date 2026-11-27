@@ -27,4 +27,4 @@
 ## File Directory:
 - Overview and general information of project is organized in README.md
 - All content and materials are in /content , organized based on each chapter and separated by each sub-chapter.
-- All assets, images, videos, and others are in /assets
+- All assets, images, videos, and others are in /assets//
